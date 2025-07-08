@@ -37,7 +37,7 @@
     "togpx": "^0.5.4",
     "@maphubs/tokml": "^0.6.0",
     "vee-validate": "^2.0.6",
-    "vue": "^2.5.22",
+    "vue": "^3.0.0",
     "vue-chartjs": "^3.5.0",
     "vue-horizontal-list": "^1.0.7",
     "vue-i18n": "^7.6.0",
