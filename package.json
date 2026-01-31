@@ -91,7 +91,7 @@
     "cross-spawn": "^6.0.6",
     "css-loader": "^3.6.0",
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^7.6.0",
+    "eslint": "^9.26.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-friendly-formatter": "^3.0.0",
     "eslint-loader": "^4.0.2",
